@@ -6,7 +6,17 @@
     <description>Recent content on My New Hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 13:13:06 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 16:21:24 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>遇到的问题</title>
+      <link>/posts/%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sat, 01 Jul 2023 16:21:24 +0800</pubDate>
+      
+      <guid>/posts/%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>这是我第一次用hugo搭建github博客，主要遇到的问题有以下几点
+一：在hugo server搭建静态博客后，无法上传至github。后发现是网络问题，用了fastgithub后就可以了 二：在中间切换主题时，发现更改不了github博客的主题，只能更改静态的。后来通过删了仓库重新搭建，解决了 三：在重新搭建博客时，总是报错。后来发现是public文件需要重新初始化，要不然保留的仍是上一个博客。 四：产生了未知报错，后发现是在.toml文件里更改配置的时候发生了错误，比如theme:&amp;quot;sampl&#39;前面是双引号，后面是单引号，导致不匹配，无法识别。从而报错。 解决完以上问题后，博客就搭建成功了</description>
+    </item>
+    
     <item>
       <title>3</title>
       <link>/posts/3/</link>
