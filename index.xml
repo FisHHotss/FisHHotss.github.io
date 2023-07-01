@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 09:49:19 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Sat, 01 Jul 2023 09:49:19 +0800</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>#1234 1234</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Thu, 29 Jun 2023 16:58:14 +0800</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>1231412 </description>
+    </item>
+    
+    <item>
+      <title>MyFirstBlog</title>
+      <link>/posts/myfirstblog/</link>
+      <pubDate>Thu, 29 Jun 2023 15:29:43 +0800</pubDate>
+      
+      <guid>/posts/myfirstblog/</guid>
+      <description>Hello World 你好 </description>
+    </item>
+    
+  </channel>
+</rss>
